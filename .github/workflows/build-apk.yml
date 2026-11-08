@@ -1,4 +1,4 @@
-name: Build Android APK
+name: Malik Trade
 
 on:
   workflow_dispatch:
